@@ -1,2 +1,2 @@
 # Run Database Migrations
-php artisan migrate --seed
+php artisan migrate:fresh --seed --force
